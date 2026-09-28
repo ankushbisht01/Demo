@@ -1,4 +1,4 @@
 This is a demo Repository
 
+merge conflict
 
-This is second demo line 
