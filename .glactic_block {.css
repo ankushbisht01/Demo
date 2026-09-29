@@ -1,0 +1,27 @@
+.glactic_block {
+
+position: absolute;
+
+background-color: rgba(25, 30, 50, 0.5);
+
+backdrop-filter: blur (10px) saturate (180%);
+
+user-select: none;
+z-index: 50;
+opacity: 0.8;
+
+
+transition:
+opacity 0.3s ease,
+
+background-color 0.3s ease,
+
+box-shadow 0.3s ease;
+
+display: flex;
+
+flex-direction: column;
+
+
+gap: 8px;
+}
